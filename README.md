@@ -79,7 +79,7 @@ Python 3.10 or newer
 Virtual environment (recommended)
 steps
 # 1️⃣ Clone the repository
-git clone https://github.com/SHIN-1O1/Hospital_Management_App.git
+git clone [https://github.com/SHIN-1O1/Hospital_Management_App.git](https://github.com/SHIN-1O1/Hospital_managment_app.git)
 cd Hospital_Management_App
 
 # 2️⃣ Create & activate a virtual environment
@@ -95,5 +95,6 @@ python create_db.py --init
 
 # 5️⃣ Run the Flask app
 flask run
+
 
 
