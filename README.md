@@ -95,3 +95,4 @@ python create_db.py --init
 
 # 5️⃣ Run the Flask app
 flask run
+
